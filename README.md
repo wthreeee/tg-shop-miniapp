@@ -4,6 +4,16 @@
 
 Демо — обжарочная кофе «Зерно», но каталог легко заменить на любой другой: цветы, выпечка, косметика, одежда.
 
+**В Telegram:** магазин открывается из бота, заказ приходит администратору с кнопками, покупатель получает статусы.
+
+<p>
+  <img src="docs/screens/telegram-miniapp.png" width="240" alt="Mini App в Telegram">
+  <img src="docs/screens/telegram-ordered.png" width="240" alt="Заказ оформлен">
+  <img src="docs/screens/telegram-chat.png" width="280" alt="Уведомления о заказе в чате">
+</p>
+
+**Экраны Mini App:**
+
 <p>
   <img src="docs/screens/1-catalog.png" width="200" alt="Каталог">
   <img src="docs/screens/2-product.png" width="200" alt="Карточка товара">
